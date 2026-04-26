@@ -1,0 +1,3 @@
+steps:
+  - label: "run hello script"
+    command: python3 hello.py
