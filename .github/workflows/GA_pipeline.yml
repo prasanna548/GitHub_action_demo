@@ -1,4 +1,4 @@
-name: Hello World
+name: run hello script
 
 on:
   push:
